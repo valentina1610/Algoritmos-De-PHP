@@ -48,6 +48,4 @@ Estos ejercicios fueron diseñados para:
 
 - Desarrollar pensamiento lógico
 
-- Trabajar con bucles, condicionales y funciones
-
 - Prepararse para problemas más complejos en PHP
