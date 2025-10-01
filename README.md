@@ -39,7 +39,9 @@ Este repositorio contiene una serie de ejercicios introductorios en **PHP**, dis
    cd Algoritmos-De-PHP
 
 ## 🛠️ Tecnologías usadas
-- Lenguajes: PHP y HTML 
+- Lenguajes: PHP y HTML
+- IDE: Visual Studio Code
+- Servidor local: XAMPP
 
 ## 🎯 Objetivo
 Estos ejercicios fueron diseñados para:
