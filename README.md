@@ -24,10 +24,6 @@ Este repositorio contiene una serie de ejercicios introductorios en **PHP**, dis
 
 6. **Ejercicio 6 – Generación de secuencias**  
    Crear un algoritmo en PHP que genere una secuencia numérica o alfabética.  
-   Ejemplos:  
-   - Números primos  
-   - Letras del abecedario  
-   - Secuencia de pares, etc.  
 
 ---
 
