@@ -35,11 +35,13 @@ Este repositorio contiene una serie de ejercicios introductorios en **PHP**, dis
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/ejercicios-php.git
-   cd ejercicios-php
+   git clone https://github.com/valentina1610/Algoritmos-De-PHP.git
+   cd Algoritmos-De-PHP
 
 ## 🛠️ Tecnologías usadas
-- Lenguajes: PHP y HTML 
+- Lenguajes: PHP y HTML
+- IDE: Visual Studio Code
+- Servidor local: XAMPP
 
 ## 🎯 Objetivo
 Estos ejercicios fueron diseñados para:
@@ -47,7 +49,5 @@ Estos ejercicios fueron diseñados para:
 - Practicar algoritmos básicos en PHP
 
 - Desarrollar pensamiento lógico
-
-- Trabajar con bucles, condicionales y funciones
 
 - Prepararse para problemas más complejos en PHP
